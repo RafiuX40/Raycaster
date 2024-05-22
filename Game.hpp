@@ -1,7 +1,7 @@
 #ifndef GAME_H
 #define GAME_H
 #include "Player.hpp"
-#define WALL_COUNT 6
+#define WALL_COUNT 9
 
 
 class Game
